@@ -1,8 +1,24 @@
 <template>
-  <div>
-    <h2 class="title">Sign In with Google</h2>
-    <div class="text-center">
-      <b-btn @click="googleSignUp" variant="primary" block>Login</b-btn>
+  <div class="app flex-row align-items-center">
+    <div class="container">
+      <b-row class="justify-content-center">
+        <b-col md="8">
+          <b-card-group>
+            <b-card no-body class="p-4">
+              <b-card-body>
+                <b-form>
+                  <h1 class="mb-5">Sign In with Google</h1>
+                  <b-row>
+                    <b-col cols="6">
+                      <b-button @click="googleSignUp" variant="primary" class="px-4">Login with Google</b-button>
+                    </b-col>
+                  </b-row>
+                </b-form>
+              </b-card-body>
+            </b-card>
+          </b-card-group>
+        </b-col>
+      </b-row>
     </div>
   </div>
 </template>

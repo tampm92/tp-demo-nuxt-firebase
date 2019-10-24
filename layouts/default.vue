@@ -1,8 +1,8 @@
 <template>
-  <b-container class="mt-4">
+  <div class="h-100">
     <Loading :loading="isLoading"/>
     <nuxt />
-  </b-container>
+  </div>
 </template>
 
 <script>

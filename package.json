@@ -1,7 +1,7 @@
 {
   "name": "tp-demo-nuxt-firebase",
   "version": "1.0.0",
-  "description": "My super-duper Nuxt.js project",
+  "description": "TP-Demo - Nuxt - Firebase",
   "author": "Tam Phan",
   "private": true,
   "scripts": {
@@ -28,5 +28,7 @@
     "vue-toasted": "^1.1.27",
     "vuexfire": "^3.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2"
+  }
 }

@@ -23,7 +23,7 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/images/icon-60.png' }
     ]
   },
   /*
@@ -39,7 +39,7 @@ export default {
   */
   css: [
     /* Import Font Awesome Icons Set */
-    '~/node_modules/font-awesome/css/font-awesome.min.css',
+    '~/node_modules/@fortawesome/fontawesome-free/css/all.min.css',
     /* Import Simple Line Icons Set */
     '~/node_modules/simple-line-icons/css/simple-line-icons.css',
     /* Import Bootstrap Vue Styles */

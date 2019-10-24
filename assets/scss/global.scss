@@ -3,6 +3,26 @@
 // ie fixes
 @import "ie-fix";
 
+html, #__nuxt, #__layout {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  min-height: 35rem;
+  position: relative;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Merriweather';
+  font-weight: 700;
+}
+
 // Here you can add other styles
 .animated {
   animation-duration: 0.2s;
