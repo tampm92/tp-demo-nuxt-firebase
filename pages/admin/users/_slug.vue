@@ -26,10 +26,10 @@
             <b-form-input id="name" type="text" v-model="userTemp.name" :disabled="!isEditing"></b-form-input>
           </b-form-group>
           <b-form-group
-            label="Mail"
-            label-for="mail"
+            label="Email"
+            label-for="email"
             :label-cols="2">
-            <b-form-input id="mail" type="text" v-model="userTemp.mail" :disabled="!isEditing"></b-form-input>
+            <b-form-input id="email" type="text" v-model="userTemp.email" :disabled="!isEditing"></b-form-input>
           </b-form-group>
           <b-form-group
             label="Phone"
