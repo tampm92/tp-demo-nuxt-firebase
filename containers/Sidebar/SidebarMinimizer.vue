@@ -12,8 +12,6 @@
     mounted: function() {
       const isMinimized = document.body.classList.contains('sidebar-minimized')
       this.togglePs(!isMinimized)
-      this.sidebarMinimize()
-      this.brandMinimize()
     },
 
     methods: {
