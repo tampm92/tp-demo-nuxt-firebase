@@ -42,7 +42,7 @@
     <div class="social-icons">
       <ul class="list-unstyled text-center mb-0">
         <li class="list-unstyled-item">
-          <a href="https://github.com/tampm92/tp-awesome/tree/master/vuejs/nuxt" target="black">
+          <a href="https://github.com/tampm92/tp-demo-nuxt-firebase" target="black">
             <i class="fab fa-github"></i>
           </a>
         </li>

@@ -2,8 +2,8 @@
   <header class="app-header navbar">
     <SidebarToggler class="d-lg-none" display="md" mobile />
     <b-link class="navbar-brand" to="#">
-      <img class="navbar-brand-full" src="/images/logo.png" height="30" alt="CoreUI Logo">
-      <img class="navbar-brand-minimized" src="/images/logo.png" height="30" alt="CoreUI Logo">
+      <img class="navbar-brand-full" src="/images/tp.png" height="30" alt="CoreUI Logo">
+      <img class="navbar-brand-minimized" src="/images/tp.png" height="30" alt="CoreUI Logo">
     </b-link>
     <SidebarToggler class="d-md-down-none" display="lg" />
     <b-navbar-nav class="d-md-down-none">
