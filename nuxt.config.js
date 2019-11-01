@@ -87,7 +87,7 @@ export default {
     short_name: 'TP',
     lang: 'en',
     description: 'TP-Demo Nuxt-Firebase-BootstrapVue',
-    theme_color: '#01229b',
+    theme_color: '#188269',
     background_color: '#000',
     ogImage: `https://live.staticflickr.com/65535/48992121062_769c357412_o.png`
   },
