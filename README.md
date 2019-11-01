@@ -1,5 +1,7 @@
 # TP-Demo Nuxt - Firebase - Dashboard
 
+> Demo [here](https://tp-demo-nuxt-firebase.netlify.com)
+
 ## Features
 
 - **Vue**: [link](https://vuejs.org/).
