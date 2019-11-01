@@ -82,6 +82,15 @@ export default {
       '~/assets/scss/_mixins.scss'
     ]
   },
+  manifest: {
+    name: 'TP-Demo Nuxt-Firebase',
+    short_name: 'TP',
+    lang: 'en',
+    description: 'TP-Demo Nuxt-Firebase-BootstrapVue',
+    theme_color: '#01229b',
+    background_color: '#000',
+    ogImage: `https://live.staticflickr.com/65535/48992121062_769c357412_o.png`
+  },
   /*
   ** Axios module configuration
   ** See https://axios.nuxtjs.org/options

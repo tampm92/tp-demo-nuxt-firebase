@@ -1,7 +1,7 @@
 {
   "name": "tp-demo-nuxt-firebase",
   "version": "1.0.0",
-  "description": "TP-Demo - Nuxt - Firebase",
+  "description": "TP-Demo - Nuxt-Firebase",
   "author": "Tam Phan",
   "private": true,
   "scripts": {
