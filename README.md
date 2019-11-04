@@ -14,6 +14,7 @@
 - **Vue toasted**: [link](https://github.com/shakee93/vue-toasted).
 - **Vuexfire**: [link](https://vuefire.vuejs.org/).
 - **Firebase Auth**: [link](https://www.davidroyer.me/blog/nuxtjs-firebase-auth/).
+- **Nuxt PWA**: [link](https://pwa.nuxtjs.org/).
 
 ## Build Setup
 

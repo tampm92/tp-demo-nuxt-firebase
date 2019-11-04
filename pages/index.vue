@@ -30,6 +30,9 @@
               <p class="mb-2">
                 Firebase Auth
               </p>
+              <p class="mb-2">
+                PWA
+              </p>
               <p class="mt-5">
                 <a class="btn btn-secondary" href="/admin">Lauch Admin Page</a>
               </p>
